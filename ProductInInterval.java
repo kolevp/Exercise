@@ -6,7 +6,7 @@ public class ProductInInterval {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-	    int n = sc.nextInt();
+	    	int n = sc.nextInt();
 		int m = sc.nextInt();
 		int num = n;
 		long product = 1;
